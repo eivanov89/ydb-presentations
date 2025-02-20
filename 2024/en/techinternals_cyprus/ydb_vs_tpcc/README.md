@@ -2,8 +2,7 @@
 
 **Speaker:** [Evgenii Ivanov](https://www.linkedin.com/in/eivanov89/)\
 **Slides:** [presentation.pdf](presentation.pdf)\
-**Video recording:** [YouTube](https://youtu.be/LlqfqzPtLD0?si=YYDcXkUZFsLJRJEY)\
-**Event:** [Tech Internals Conf Cyprus 2024](https://internals.tech/2024/abstracts/9812)
+**Video recording:** [YouTube](https://youtu.be/PYkVo8ApuAE?si=Sn3C598Qwm24Mbdu)\
 
 Modern distributed databases scale horizontally with great efficiency, making them almost limitless in capacity. This implies that benchmarks should be able to run on multiple machines and be very efficient to minimize the number of machines required. This talk will focus on benchmarking high-performance databases, with a particular emphasis on YDB and our implementation of the TPC-C benchmark—the de-facto gold standard in the database field.
 
